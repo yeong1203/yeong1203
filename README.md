@@ -41,9 +41,7 @@
 
 ## 🌟etc.
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cozyluv117)](https://solved.ac/cozyluv117) 
-[yeonglong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cozyluv117&show_icons=true&theme=transparent)
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cozyluv117)](https://solved.ac/cozyluv117)
 
 <!-- ![yeonglong's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cozyluv117&show_icons=true&theme=transparent)
 -->
