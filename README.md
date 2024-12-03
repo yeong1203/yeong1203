@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 상단 header -->
-  <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=d6ace6&section=header&text=Yeonglong%Heo&animation=fadeIn&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=Waving&height=200&color=d6ace6&section=header&text=Yeonglong%20Heo&animation=fadeIn&fontColor=ffffff&fontAlignY=40" />
   
   <!-- 자기소개 -->
   ## ✋Introduction
